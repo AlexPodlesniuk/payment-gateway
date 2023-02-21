@@ -1,0 +1,64 @@
+version: "3.9"
+
+services:
+  payments-mq:
+    image: rabbitmq:3-management-alpine
+    container_name: 'rabbitmq'
+    hostname: payments-mq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    volumes:
+      - ~/.docker-conf/rabbitmq/data/:/var/lib/rabbitmq/
+      - ~/.docker-conf/rabbitmq/log/:/var/log/rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:15672" ]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    
+  mongodb:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+        
+  bank-api:
+    build:
+      context: .
+      dockerfile: ./Bank.Api//Dockerfile
+    ports:
+      - "15102:80"
+
+  acquisition-api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+    build:
+      context: .
+      dockerfile: ./PaymentGateway.Acquisition.Api/Dockerfile
+    restart: on-failure
+    depends_on:
+      - mongodb
+      - payments-mq
+    ports:
+      - "15100:80"
+
+  payments-api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+    build:
+      context: .
+      dockerfile: ./PaymentGateway.Payments.Api/Dockerfile
+    restart: on-failure
+    depends_on:
+      - mongodb
+      - payments-mq
+    ports:
+      - "15101:80"
+
+volumes:
+  mongodb_data:

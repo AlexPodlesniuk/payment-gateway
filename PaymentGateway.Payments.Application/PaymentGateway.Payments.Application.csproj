@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PaymentGateway.Acquisition.Contracts\PaymentGateway.Acquisition.Contracts.csproj" />
+      <ProjectReference Include="..\PaymentGateway.BuildingBlocks.Application\PaymentGateway.BuildingBlocks.Application.csproj" />
+      <ProjectReference Include="..\PaymentGateway.Payments.Domain\PaymentGateway.Payments.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
+    </ItemGroup>
+
+</Project>

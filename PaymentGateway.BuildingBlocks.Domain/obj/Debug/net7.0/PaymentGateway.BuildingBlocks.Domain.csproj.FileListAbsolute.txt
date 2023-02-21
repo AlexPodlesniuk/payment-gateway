@@ -1,0 +1,12 @@
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.deps.json
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.csproj.AssemblyReference.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.AssemblyInfoInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.AssemblyInfo.cs
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.csproj.CoreCompileInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/refint/PaymentGateway.BuildingBlocks.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Domain/obj/Debug/net7.0/ref/PaymentGateway.BuildingBlocks.Domain.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PaymentGateway.Payments.Domain/1.0.0": {
+        "dependencies": {
+          "PaymentGateway.BuildingBlocks.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PaymentGateway.Payments.Domain.dll": {}
+        }
+      },
+      "PaymentGateway.BuildingBlocks.Domain/1.0.0": {
+        "runtime": {
+          "PaymentGateway.BuildingBlocks.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentGateway.Payments.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentGateway.BuildingBlocks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

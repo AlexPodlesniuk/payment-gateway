@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PaymentGateway.BuildingBlocks.Persistence.Mongo\PaymentGateway.BuildingBlocks.Persistence.Mongo.csproj" />
+      <ProjectReference Include="..\PaymentGateway.Payments.Domain\PaymentGateway.Payments.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

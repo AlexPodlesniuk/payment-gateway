@@ -1,0 +1,17 @@
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentGateway.Acquisition.Contracts.deps.json
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentGateway.Acquisition.Contracts.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentGateway.Acquisition.Contracts.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentsGateway.BuildingBlocks.Messaging.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/bin/Debug/net7.0/PaymentsGateway.BuildingBlocks.Messaging.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.csproj.AssemblyReference.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.AssemblyInfoInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.AssemblyInfo.cs
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.csproj.CoreCompileInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.csproj.CopyComplete
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/refint/PaymentGateway.Acquisition.Contracts.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/PaymentGateway.Acquisition.Contracts.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Acquisition.Contracts/obj/Debug/net7.0/ref/PaymentGateway.Acquisition.Contracts.dll

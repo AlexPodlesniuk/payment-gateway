@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PaymentGateway.Acquisition.Application\PaymentGateway.Acquisition.Application.csproj" />
+      <ProjectReference Include="..\PaymentGateway.Acquisition.Persistence.Mongo\PaymentGateway.Acquisition.Persistence.Mongo.csproj" />
+      <ProjectReference Include="..\PaymentGateway.BuildingBlocks.Api.Abstractions\PaymentGateway.BuildingBlocks.Api.Abstractions.csproj" />
+      <ProjectReference Include="..\PaymentsGateway.BuildingBlocks.Messaging\PaymentsGateway.BuildingBlocks.Messaging.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+</Project>

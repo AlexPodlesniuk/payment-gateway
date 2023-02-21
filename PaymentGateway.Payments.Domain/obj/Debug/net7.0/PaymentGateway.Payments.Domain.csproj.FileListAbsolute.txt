@@ -1,0 +1,15 @@
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/bin/Debug/net7.0/PaymentGateway.Payments.Domain.deps.json
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/bin/Debug/net7.0/PaymentGateway.Payments.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/bin/Debug/net7.0/PaymentGateway.Payments.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.csproj.AssemblyReference.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.AssemblyInfoInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.AssemblyInfo.cs
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.csproj.CoreCompileInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.csproj.CopyComplete
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/refint/PaymentGateway.Payments.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/PaymentGateway.Payments.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.Payments.Domain/obj/Debug/net7.0/ref/PaymentGateway.Payments.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PaymentGateway.Payments.Api.props" />
+</Project>

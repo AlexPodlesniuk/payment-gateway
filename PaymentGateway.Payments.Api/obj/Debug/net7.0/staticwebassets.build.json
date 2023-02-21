@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xpVOK0O6cjeRDHTzXGxT5y/3MOsy0f+NeXXryl5Kr8M=",
+  "Source": "PaymentGateway.Payments.Api",
+  "BasePath": "_content/PaymentGateway.Payments.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

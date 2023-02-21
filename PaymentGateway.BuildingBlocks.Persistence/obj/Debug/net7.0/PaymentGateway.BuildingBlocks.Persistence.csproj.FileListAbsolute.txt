@@ -1,0 +1,12 @@
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.deps.json
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.csproj.AssemblyReference.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.AssemblyInfoInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.AssemblyInfo.cs
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.csproj.CoreCompileInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/refint/PaymentGateway.BuildingBlocks.Persistence.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence/obj/Debug/net7.0/ref/PaymentGateway.BuildingBlocks.Persistence.dll

@@ -1,0 +1,17 @@
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.deps.json
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Domain.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/bin/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.csproj.AssemblyReference.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.AssemblyInfoInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.AssemblyInfo.cs
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.csproj.CoreCompileInputs.cache
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.csproj.CopyComplete
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/refint/PaymentGateway.BuildingBlocks.Persistence.Mongo.dll
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/PaymentGateway.BuildingBlocks.Persistence.Mongo.pdb
+/Users/alexwork/RiderProjects/PaymentGateway/PaymentGateway.BuildingBlocks.Persistence.Mongo/obj/Debug/net7.0/ref/PaymentGateway.BuildingBlocks.Persistence.Mongo.dll
