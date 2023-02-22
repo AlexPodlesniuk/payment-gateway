@@ -89,8 +89,8 @@ Payments contains 2 endpoints:
 X-Api-Key should be a valid (existed) MerchantId, otherwise, request wont be authorized
 
 # Considerations
-Deployment - as the current system is a set of independent services, we can easily run them in a container clustered using AWS Fargate + EKS (just as an example). It is possible to make services images more lightweight and scale out the cluster fast
+Deployment - as the current system is a set of independent services, we can easily run them in a container cluster using AWS Fargate + EKS (just as an example). It is possible to make services images more lightweight and scale out the cluster fast
 
-Messaging - despite RMQ being a great product, there are still some questions regarding network partitions and deduplication handling. Considering also the possibility to run it in AWS serverless container services, such solutions as SQS+SNS or EventBridge are preferable
+Messaging - despite RMQ being a great product, there are still some questions regarding network partitions and deduplication handling. Considering also the possibility to run this solution in AWS serverless container services, such solutions as SQS+SNS or EventBridge are preferable
 
 Database - here we can select (almost) any database, relational or nosql. the only requirement is the ability to run in a cluster (without extra effort) and transaction support. To keep everything in AWS, we can consider using DynamoDb (as it has all requirements), but for this option, we definitely will need to calculate its costs.
